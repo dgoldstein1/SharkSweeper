@@ -1,0 +1,11 @@
+lithos pro regular
+size 48
+
+blue:
+140
+231
+52
+
+Red: 2
+green: 55
+blue: 108
